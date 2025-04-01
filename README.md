@@ -104,4 +104,4 @@
 
 
 
-感謝作者（`schmurgel1983`, `zhiJIaN`）的源代碼
+感謝（`schmurgel1983`, `zhiJIaN`）的源代碼
